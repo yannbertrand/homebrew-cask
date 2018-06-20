@@ -1,6 +1,6 @@
 cask 'calibre' do
-  version '3.25.0'
-  sha256 '06eb7af10121c7fa8dc7ae89b3b4a4119202a696b9f1b85bc939bdb9166090de'
+  version '3.26.1'
+  sha256 '49648d0611d24dd18ac1a0e126c45a93bedccb53dfa59115d5fedae626ac6205'
 
   url "https://download.calibre-ebook.com/#{version}/calibre-#{version}.dmg"
   appcast 'https://github.com/kovidgoyal/calibre/releases.atom'
